@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Audio Assistant</string>
+    <string name="app_id">=58fb11c6</string>
+    <string name="btn_start1">开始对话</string>
+    <string name="btn_start2">开始翻译</string>
+    <string name="btn_start3">开始翻译</string>
+    <string name="quit">缺少相应权限不能运行</string>
+    <string name="settings">设置</string>
+    <string name="string_help_text">当前应用缺少相应的权限，请点击设置-权限打开所需要的权限</string>
+    <string name="help">权限提示</string>
+</resources>
